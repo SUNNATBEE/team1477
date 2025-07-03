@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
         <div className='container max-w-[1240px] mx-auto px-[20px] w-full'>
-Doni LGTB
+{/* Doni LGTB */}
         </div>
     </div>
   )
