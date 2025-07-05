@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div>
         <div className='container max-w-[1240px] mx-auto px-[20px] w-full'>
-Ikkinchi section Doni
+{/* Ikkinchi section Doni */}
         </div>
     </div>
   )
